@@ -1,0 +1,3 @@
+启动  node03、node04的tracker、nginx 、keepalived     		注意：Nginx 一定要在keepalived之前启动
+
+启动 node05 、 node06 、node07 、 node08 的storage 、Nginx

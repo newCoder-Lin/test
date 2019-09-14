@@ -1,0 +1,123 @@
+
+批处理和流处理
+
+
+内核Karnel
+
+
+Nginx虚拟目录
+
+mime.types和content-type
+
+NIC
+
+sendFile
+
+location配置
+
+动静分离
+
+tengine健康检查
+
+tengine反向代理的网站的静态页面资源获取不到
+
+了解一下raid磁盘存储
+
+RSA和window下生成私钥的具体操作
+
+openSSL
+
+对称加密和非对称加密、SSL 、AES 、RSA
+
+DNS劫持
+
+*********加密算法必须去了解一下
+CA签名和证书，公钥和私钥概念
+
+
+Nginx和lvs做负载均衡器的差异
+
+fdfs在Linux下操作文件的用法一定要做我熟悉
+
+java程序多做一些文件上传和下载的代码练习
+
+***********************建一个GitHub账号，更新代码上去
+
+马老师建议抠反射和代理
+
+小二哥 ： + 权限 （抽丝剥茧设计模式） （数据结构与算法）
+
+百度《提问的智慧》
+
+Stack Overflow国外技术论坛
+
+了解lee tcode
+
+*************JVM
+
+试着写一下注解的代码
+
+socket和socketserver的应用
+
+service mesh、路由表、下一跳、arp了解一下
+
+lvs的DR模型
+
+环回接口、虚拟网卡，物理网卡、sync握手包
+
+vrrp、轮询、docker
+
+tar和unzip的区别，  linux下的make和make install 、mmake.sh、  ./configuration
+
+交换机中继端口和访问端口、交换机和集线器、网桥的关系
+
+可靠传输和不可靠传输
+
+虚电路传输服务和数据报传输服务
+
+fastdfs添加、删除节点
+
+Nginx反向代理缓存proxy cache
+
+用户态、内核态、线程和纤程、80中断
+
+semaphore 、lock区别
+
+java rmi
+
+xml、json、序列化数据交互各自的优缺点
+
+服务降级熔断和轮询、CDN、消息队列、幂等操作
+
+系统所synchronized、自旋锁
+
+epoll、fd(文件描述符) file discriptor
+
+用户态和内核态、多路复用
+
+轮询、read、scoket、select、mmap、epoll 、 sendfile 、   
+	mmap + sendfile = kafka
+
+bitmap、setbit、bitcount、bitpos、bitop、
+
+跳跃表skip list
+
+CPU原语、ABA问题
+
+RDB、AOF
+
+copy and write 父子进程指针对内存变量的调用   fork方式
+
+rdb快照恢复速度很快，其实跟序列化差不多   AOF
+
+AKF 
+
+CAS  compare and set 、 compare and swap
+
+synchronized、 volatile 、 atomicXXX 、 longAdder
+
+重入锁和主线程、守护线程
+
+门闩 countdownlatch 、      栅栏CyclicBarrier 、 phaser阶段器 、 semaphore信号量
+
+读写锁和互斥锁（排它锁）
